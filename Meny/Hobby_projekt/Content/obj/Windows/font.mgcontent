@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/MyGames/Hobby_projekt/Hobby_projekt/Content/font.spritefont</SourceFile>
+  <SourceTime>2016-03-30T11:41:08.6581556+02:00</SourceTime>
+  <DestFile>D:/MyGames/Hobby_projekt/Hobby_projekt/Content/bin/Windows/font.xnb</DestFile>
+  <DestTime>2016-03-30T11:41:26.9348682+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-11-09T15:24:38+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-11-09T15:24:38+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
