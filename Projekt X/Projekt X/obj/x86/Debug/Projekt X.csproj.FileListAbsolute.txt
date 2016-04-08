@@ -25,6 +25,7 @@ c:\users\felix\documents\visual studio 2013\Projects\Projekt X\Projekt X\bin\Win
 c:\users\felix\documents\visual studio 2013\Projects\Projekt X\Projekt X\obj\x86\Debug\Projekt X.csprojResolveAssemblyReference.cache
 c:\users\felix\documents\visual studio 2013\Projects\Projekt X\Projekt X\obj\x86\Debug\Projekt X.exe
 c:\users\felix\documents\visual studio 2013\Projects\Projekt X\Projekt X\obj\x86\Debug\Projekt X.pdb
+<<<<<<< HEAD
 C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\obj\x86\Debug\Projekt X.exe
 C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\obj\x86\Debug\Projekt X.pdb
 C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\Content\Karaktär.png
@@ -52,3 +53,5 @@ C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\Sh
 C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.RawInput.xml
 C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct3D9.xml
 C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\obj\x86\Debug\Projekt X.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> origin/master
