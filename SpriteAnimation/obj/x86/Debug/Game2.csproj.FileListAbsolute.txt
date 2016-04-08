@@ -1,0 +1,32 @@
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\Content\Character Animation.png
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\Game2.exe
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\Game2.pdb
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.dll
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.xml
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\obj\x86\Debug\Game2.exe
+c:\users\helen\documents\visual studio 2015\Projects\Game2\Game2\obj\x86\Debug\Game2.pdb
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\SpriteAnimation\obj\x86\Debug\Game2.exe
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\SpriteAnimation\obj\x86\Debug\Game2.pdb
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\SpriteAnimation\bin\Windows\Debug\Content\Character Animation.png
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\SpriteAnimation\bin\Windows\Debug\Game2.exe
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\SpriteAnimation\bin\Windows\Debug\Game2.pdb
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\SpriteAnimation\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
