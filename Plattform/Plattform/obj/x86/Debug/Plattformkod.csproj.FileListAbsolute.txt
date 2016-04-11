@@ -26,3 +26,31 @@ c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\ob
 c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Content\Enemy.png
 c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Content\Player.png
 c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Player.cs
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\obj\x86\Debug\Plattform.exe
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\obj\x86\Debug\Plattform.pdb
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\Content\Enemy.png
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\Content\Player.png
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\Player.cs
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\Plattform.exe
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\Plattform.pdb
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.dll
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.xml
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Felix\Documents\GitHub\Group-2\Plattform\Plattform\obj\x86\Debug\Plattformkod.csprojResolveAssemblyReference.cache

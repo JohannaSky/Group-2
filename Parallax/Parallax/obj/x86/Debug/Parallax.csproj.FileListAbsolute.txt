@@ -26,3 +26,5 @@ F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\W
 F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\obj\x86\Debug\Parallax.csprojResolveAssemblyReference.cache
 F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\obj\x86\Debug\Parallax.exe
 F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\obj\x86\Debug\Parallax.pdb
+C:\Users\Felix\Documents\GitHub\Group-2\Parallax\Parallax\obj\x86\Debug\Parallax.exe
+C:\Users\Felix\Documents\GitHub\Group-2\Parallax\Parallax\obj\x86\Debug\Parallax.pdb

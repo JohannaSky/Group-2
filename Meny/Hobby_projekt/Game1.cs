@@ -11,22 +11,23 @@ namespace Hobby_projekt
 
         GameStateManager gameStateManager;
 
-        public static int screenWidth = 1920;
+        public static int screenWidth = 1430;
         public static int screenHeight = 1080;
 
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+            graphics.PreferredBackBufferWidth = screenWidth;
+            graphics.PreferredBackBufferHeight = screenHeight;
+            graphics.ApplyChanges();
         }
 
        
         protected override void Initialize()
         {
-            graphics.IsFullScreen = true;
-            graphics.PreferredBackBufferWidth = screenWidth;
-            graphics.PreferredBackBufferHeight = screenHeight;
-            graphics.ApplyChanges();
+           
+
             base.Initialize();
         }
 

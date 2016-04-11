@@ -25,33 +25,34 @@ c:\users\felix\documents\visual studio 2013\Projects\Projekt X\Projekt X\bin\Win
 c:\users\felix\documents\visual studio 2013\Projects\Projekt X\Projekt X\obj\x86\Debug\Projekt X.csprojResolveAssemblyReference.cache
 c:\users\felix\documents\visual studio 2013\Projects\Projekt X\Projekt X\obj\x86\Debug\Projekt X.exe
 c:\users\felix\documents\visual studio 2013\Projects\Projekt X\Projekt X\obj\x86\Debug\Projekt X.pdb
-<<<<<<< HEAD
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\obj\x86\Debug\Projekt X.exe
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\obj\x86\Debug\Projekt X.pdb
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\Content\Karaktär.png
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\Content\Karta.png
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\Projekt X.exe
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\Projekt X.pdb
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\MonoGame.Framework.dll
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.MediaFoundation.dll
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.dll
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.XAudio2.dll
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct3D11.dll
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.DXGI.dll
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct2D1.dll
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.XInput.dll
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.RawInput.dll
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct3D9.dll
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\MonoGame.Framework.xml
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.MediaFoundation.xml
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.xml
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.XAudio2.xml
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct3D11.xml
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.DXGI.xml
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct2D1.xml
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.XInput.xml
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.RawInput.xml
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct3D9.xml
-C:\Users\helen\Documents\GitHub\Group-2\Projekt X\Projekt X\obj\x86\Debug\Projekt X.csprojResolveAssemblyReference.cache
-=======
->>>>>>> origin/master
+C:\Users\Felix\Desktop\Projekt X\Projekt X\obj\x86\Debug\Projekt X.exe
+C:\Users\Felix\Desktop\Projekt X\Projekt X\obj\x86\Debug\Projekt X.pdb
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\Projekt X.exe
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\Projekt X.pdb
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X\obj\x86\Debug\Projekt X.csprojResolveAssemblyReference.cache
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\Content\Karaktär.png
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\Content\Karta.png
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\Content\font.xnb
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\Content\back.xnb
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\Content\fore.xnb
+C:\Users\Felix\Desktop\Projekt X\Projekt X\bin\Windows\Debug\Content\middle.xnb

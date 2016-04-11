@@ -1,0 +1,26 @@
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\obj\x86\Debug\Projekt X movement.csprojResolveAssemblyReference.cache
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\Content\Karaktär.xnb
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\Projekt X movement.exe
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\Projekt X movement.pdb
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\obj\x86\Debug\Projekt X movement.exe
+C:\Users\Felix\Desktop\Projekt X\Projekt X movement\Projekt X movement\obj\x86\Debug\Projekt X movement.pdb

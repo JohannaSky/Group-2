@@ -1,0 +1,56 @@
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\Content\fore.png
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\Content\middle.png
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\Content\back.png
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\Parallax.exe
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\Parallax.pdb
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.dll
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.xml
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\obj\x86\Debug\Parallax.csprojResolveAssemblyReference.cache
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\obj\x86\Debug\Parallax.exe
+F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\Parallax\Parallax\obj\x86\Debug\Parallax.pdb
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\obj\x86\Debug\Parallax.exe
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\obj\x86\Debug\Parallax.pdb
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\Content\fore.png
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\Content\middle.png
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\Content\back.png
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\Parallax.exe
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\Parallax.pdb
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.dll
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.xml
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Felix\Desktop\Projekt X\Parallax\Parallax\obj\x86\Debug\Parallax.csprojResolveAssemblyReference.cache

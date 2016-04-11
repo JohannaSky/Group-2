@@ -1,0 +1,112 @@
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Plattform.exe
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Plattform.pdb
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\obj\x86\Debug\Plattformkod.csprojResolveAssemblyReference.cache
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\obj\x86\Debug\Plattform.exe
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\obj\x86\Debug\Plattform.pdb
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Content\Enemy.png
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Content\Player.png
+c:\users\spellabbet\documents\visual studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Player.cs
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\obj\x86\Debug\Plattform.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\obj\x86\Debug\Plattform.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Content\Enemy.png
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Content\Player.png
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Player.cs
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Plattform.exe
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\Plattform.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\Plattform\Plattform\obj\x86\Debug\Plattformkod.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\obj\x86\Debug\Plattform.exe
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\obj\x86\Debug\Plattform.pdb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\Content\Enemy.png
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\Content\Player.png
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\Player.cs
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\Plattform.exe
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\Plattform.pdb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Plattform1\Plattform\obj\x86\Debug\Plattformkod.csprojResolveAssemblyReference.cache
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\obj\x86\Debug\Plattform.exe
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\obj\x86\Debug\Plattform.pdb
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\Content\Enemy.png
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\Content\Player.png
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\Player.cs
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\Plattform.exe
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\Plattform.pdb
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.dll
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.xml
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Felix\Desktop\Projekt X\Plattform1\Plattform\obj\x86\Debug\Plattformkod.csprojResolveAssemblyReference.cache
