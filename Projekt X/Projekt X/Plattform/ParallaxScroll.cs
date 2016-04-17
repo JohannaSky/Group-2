@@ -44,7 +44,7 @@ namespace Projekt_X
 
             middleground = new List<Vector2>();
             middlegroundSpacing = tex[1].Width - 10;
-            middlegroundSpeed = 0.8f;
+            middlegroundSpeed = 0.5f;
             for (int i = 0; i < (window.ClientBounds.Width / middlegroundSpacing) + 2; i++)
             {
                 middleground.Add(new Vector2(i * middlegroundSpacing, window.ClientBounds.Height - tex[0].Height * 10.78f));
@@ -52,7 +52,7 @@ namespace Projekt_X
 
             background = new List<Vector2>();
             backgroundSpacing = tex[2].Width - 100;
-            backgroundSpeed = 0.4f;
+            backgroundSpeed = -0.9f;
             for (int i = 0; i < (window.ClientBounds.Width); i++)
             {
                 background.Add(new Vector2(i * backgroundSpacing, window.ClientBounds.Height - tex[2].Height + 25));
@@ -74,6 +74,7 @@ namespace Projekt_X
                     foreground[i] = new Vector2(foreground[j].X - foregroundSpacing - 1, foreground[i].Y);
                 }
             }
+
             #endregion
             #region middleground
             if (Keyboard.GetState().IsKeyDown(Keys.Right))
@@ -90,25 +91,40 @@ namespace Projekt_X
                         middleground[i] = new Vector2(middleground[j].X + middlegroundSpacing, middleground[i].Y);
                     }
                 }
-
-            #endregion
-            #region background
-            if (Keyboard.GetState().IsKeyDown(Keys.Right))
-                for (int i = 0; i < background.Count; i++)
+            if (Keyboard.GetState().IsKeyDown(Keys.Left))
+                for (int i = 0; i < middleground.Count; i++)
                 {
-                    background[i] = new Vector2(background[i].X - backgroundSpeed, background[i].Y);
-                    if (background[i].X <= -backgroundSpacing)
+                    middleground[i] = new Vector2(middleground[i].X + middlegroundSpeed, middleground[i].Y);
+                    if (middleground[i].X <= -middlegroundSpacing)
                     {
                         int j = i - 1;
                         if (j < 0)
                         {
-                            j = background.Count - 1;
+                            j = middleground.Count - 1;
                         }
-                        background[i] = new Vector2(background[j].X + backgroundSpacing - 1, background[i].Y);
+                        middleground[i] = new Vector2(middleground[j].X + middlegroundSpacing, middleground[i].Y);
                     }
-
                 }
+            
+            #endregion
+            #region background
+             //if (Keyboard.GetState().IsKeyDown(Keys.Right))
+             //   for (int i = 0; i < background.Count; i++)
+             //   {
+             //       background[i] = new Vector2(background[i].X - backgroundSpeed, background[i].Y);
+             //       if (background[i].X <= -backgroundSpacing)
+             //       {
+             //           int j = i - 1;
+             //           if (j < 0)
+             //           {
+             //               j = background.Count - 1;
+             //           }
+             //           background[i] = new Vector2(background[j].X + backgroundSpacing - 1, background[i].Y);
+             //       }
 
+             //   }
+
+            
             #endregion
         }
         public void Draw(SpriteBatch sb)

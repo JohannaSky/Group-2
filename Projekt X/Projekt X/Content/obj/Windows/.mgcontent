@@ -4,9 +4,10 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Felix/Desktop/Projekt X/Projekt X/Content/font.spritefont</File>
-    <File>C:/Users/Felix/Desktop/Projekt X/Projekt X/Content/back.png</File>
-    <File>C:/Users/Felix/Desktop/Projekt X/Projekt X/Content/fore.png</File>
-    <File>C:/Users/Felix/Desktop/Projekt X/Projekt X/Content/middle.png</File>
+    <File>C:/Users/Felix/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/font.spritefont</File>
+    <File>C:/Users/Felix/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/back.png</File>
+    <File>C:/Users/Felix/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/fore.png</File>
+    <File>C:/Users/Felix/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/middle.png</File>
+    <File>C:/Users/Felix/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/block.png</File>
   </SourceFiles>
 </SourceFileCollection>

@@ -15,11 +15,11 @@ namespace Projekt_X
         MapMenu mapMenu;
         ParallaxScroll parallaxScroll;
         Player player;
-       
-        public static int cameraX = 0;
+        Camera camera;
+        
         public static int screenWidth = 1430;
         public static int screenHeight = 1080;
-        public static Texture2D map, character, foregroundTex, middlegroundTex, backgroundTex;
+        public static Texture2D map, character, foregroundTex, middlegroundTex, backgroundTex, block;
         public static SpriteFont spriteFont;
 
         public Game1()
@@ -49,6 +49,7 @@ namespace Projekt_X
             foregroundTex = Content.Load<Texture2D>("fore");
             middlegroundTex = Content.Load<Texture2D>("middle");
             backgroundTex = Content.Load<Texture2D>("back");
+            block = Content.Load<Texture2D>("block");
 
             spriteFont = Content.Load<SpriteFont>("font");
             IsMouseVisible = true;
@@ -56,6 +57,7 @@ namespace Projekt_X
             mapMenu = new MapMenu();
             gameStateManager = new GameStateManager(Content, graphics);
             parallaxScroll = new ParallaxScroll(Content, Window);
+            camera = new Camera(player, new Rectangle(0,0,1430, 1080), new Rectangle(0 ,0, 50000, 3000));
         }
 
 
@@ -73,6 +75,7 @@ namespace Projekt_X
             //mapMenu.MapMenuMovement();
             //gameStateManager.Update();
             player.Update();
+            camera.Update();
             /*#region paralax
             if (Keyboard.GetState().IsKeyDown(Keys.Left))
             {
@@ -93,7 +96,8 @@ namespace Projekt_X
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-            spriteBatch.Begin();
+            
+            spriteBatch.Begin(SpriteSortMode.Deferred, null, null, null, null, null, camera.TranslationMatrix);
             //mapMenu.Draw(spriteBatch);
             //gameStateManager.Draw(spriteBatch);
             //parallaxScroll.Draw(spriteBatch);

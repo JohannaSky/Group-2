@@ -17,9 +17,14 @@ namespace Projekt_X
             this.tex = tex;
             this.hitBox = hitBox;
         }
+
         public void Draw(SpriteBatch sb)
         {
             sb.Draw(tex, hitBox, Color.White);
+        }
+        public void SetRect(Rectangle hitBox)
+        {
+            this.hitBox = hitBox;
         }
     }
 }

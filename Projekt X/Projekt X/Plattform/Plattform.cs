@@ -1,5 +1,6 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,20 +10,27 @@ namespace Projekt_X
 {
     class Plattform
     {
+        KeyboardState ks, oldKs;
+        Texture2D tex;
         public int plattformSize;
+        
         Tiles[] tiles;
-        int x;
-        int y;
-        public Plattform(int plattformSize, Texture2D tex, int x, int y)
+        float x;
+        float y;
+        public Plattform(int plattformSize, Texture2D tex, float x, float y )
         {
             this.plattformSize = plattformSize;
+            
             tiles = new Tiles[plattformSize];
             this.x = x;
             this.y = y;
-            for (int i = 0; i < plattformSize; i++)
-            {
-                tiles[i] = new Tiles(tex, new Rectangle(x + (i * tex.Width), y, tex.Width, tex.Height));
-            }
+            this.tex = tex;
+                for (int i = 0; i < plattformSize; i++)
+                {
+                    tiles[i] = new Tiles(tex, new Rectangle((int)x + (i * tex.Width), (int)y, tex.Width, tex.Height));
+                }
+            
+           
         }
         public void Draw(SpriteBatch sb)
         {
@@ -39,18 +47,19 @@ namespace Projekt_X
         {
             return this.plattformSize;
         }
-        public int getX()
+        public float getX()
         {
             return this.x;
         }
-        public int getY()
+        public float getY()
         {
             return this.y;
         }
         public Rectangle GetRect()
         {
-            return new Rectangle(x - 3, y - 3, plattformSize * tiles[0].tex.Width, tiles[0].tex.Height);
+        
+                return new Rectangle((int)x, (int)y, plattformSize * tiles[0].tex.Width, tiles[0].tex.Height);
+    
         }
-
     }
 }

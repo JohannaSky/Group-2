@@ -42,6 +42,9 @@
     <Compile Include="Game Menu\GameStateManager.cs" />
     <Compile Include="MapMenu.cs" />
     <Compile Include="Game Menu\MenuButton.cs" />
+    <Compile Include="Plattform\Camera.cs" />
+    <Compile Include="Plattform\Map.cs" />
+    <Compile Include="Plattform\MovingPlattform.cs" />
     <Compile Include="Plattform\ParallaxScroll.cs" />
     <Compile Include="Plattform\Plattform.cs" />
     <Compile Include="Plattform\Player.cs" />
@@ -71,6 +74,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Content\MapMenuSprites\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
