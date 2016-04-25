@@ -16,7 +16,7 @@ namespace Projekt_X
         Vector2 speed, pos;
         Texture2D character;
         bool isFalling;
-        static public bool isOnGround;
+        static public bool isOnGround, ridingPlattformForward, ridingPlattformBackward;
         Map maps;
         ParallaxScroll paralaxScroll;
         Rectangle hitBox;
@@ -25,6 +25,8 @@ namespace Projekt_X
             this.character = Game1.character;
             pos = new Vector2(100, 800);
             isOnGround = true;
+            ridingPlattformForward = false;
+            ridingPlattformBackward = false;
             maps = new Map();        
             isFalling = false;
             hitBox = new Rectangle((int)pos.X, (int)pos.Y - character.Height, character.Width, 1);
@@ -69,6 +71,14 @@ namespace Projekt_X
             if(isOnGround == true)
             {
                 speed.Y = 0;
+            }
+            if(ridingPlattformForward == true)
+            {
+                speed.X += 6;
+            }
+            if(ridingPlattformBackward == true)
+            {
+                speed.X -= 6;
             }
                                                           
             pos += speed;

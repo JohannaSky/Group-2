@@ -30,3 +30,27 @@ F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\SpriteAnimation\bin\Win
 F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\SpriteAnimation\bin\Windows\Debug\Game2.exe
 F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\SpriteAnimation\bin\Windows\Debug\Game2.pdb
 F:\Spelutveckling\skola\Termin2\Systemutveckling\Project\SpriteAnimation\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\obj\x86\Debug\Game2.exe
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\obj\x86\Debug\Game2.pdb
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\Content\Character Animation.png
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\Game2.exe
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\Game2.pdb
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.dll
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.xml
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Martin\Documents\GitHub\Group-2\SpriteAnimation\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache

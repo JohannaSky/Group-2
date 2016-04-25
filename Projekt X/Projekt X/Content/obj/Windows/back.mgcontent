@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Felix/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/back.png</SourceFile>
-  <SourceTime>2016-03-31T12:22:38+02:00</SourceTime>
-  <DestFile>C:/Users/Felix/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/bin/Windows/back.xnb</DestFile>
-  <DestTime>2016-04-13T22:08:45.9672969+02:00</DestTime>
+  <SourceFile>C:/Users/Martin/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/back.png</SourceFile>
+  <SourceTime>2016-04-25T21:47:35.4515798+02:00</SourceTime>
+  <DestFile>C:/Users/Martin/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/bin/Windows/back.xnb</DestFile>
+  <DestTime>2016-04-25T21:51:48.0576845+02:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
+  <ImporterTime>2015-09-04T08:26:22+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2015-04-29T19:14:44+02:00</ProcessorTime>
+  <ProcessorTime>2015-09-04T08:26:22+02:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>

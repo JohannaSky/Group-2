@@ -95,6 +95,22 @@ namespace Projekt_X
         public void SetOnPlattform(bool onPlattform)
         {
             this.onPlattform = onPlattform;
+            if (onPlattform == true && direction == true)
+            {
+                Player.ridingPlattformForward = true;
+            }
+            if (onPlattform == true && direction == false)
+            {
+                Player.ridingPlattformBackward = true;
+            }
+            if (onPlattform == false || Player.ridingPlattformBackward == true)
+            {
+                Player.ridingPlattformForward = false;
+            }
+            if (onPlattform == false || Player.ridingPlattformForward == true)
+            {
+                Player.ridingPlattformBackward = false;
+            }
         }
         public bool GetOnPlattform()
         {

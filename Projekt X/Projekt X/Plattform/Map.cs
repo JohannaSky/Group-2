@@ -10,7 +10,7 @@ namespace Projekt_X
     class Map
     {
         Plattform[] mapOne;
-        MovingPlattform[] mapOneMovement;
+        public MovingPlattform[] mapOneMovement;
         Texture2D texOne;
 
         public Map()
