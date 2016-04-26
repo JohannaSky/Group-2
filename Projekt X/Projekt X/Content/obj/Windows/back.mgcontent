@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SourceFile>C:/Users/Martin/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/back.png</SourceFile>
-  <SourceTime>2016-04-25T21:47:35.4515798+02:00</SourceTime>
+  <SourceTime>2016-04-26T04:35:00.5203988+02:00</SourceTime>
   <DestFile>C:/Users/Martin/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/bin/Windows/back.xnb</DestFile>
-  <DestTime>2016-04-25T21:51:48.0576845+02:00</DestTime>
+  <DestTime>2016-04-26T04:36:48.7344479+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2015-09-04T08:26:22+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

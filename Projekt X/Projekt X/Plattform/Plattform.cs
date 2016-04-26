@@ -15,8 +15,7 @@ namespace Projekt_X
         public int plattformSize;
         
         Tiles[] tiles;
-        float x;
-        float y;
+        float x, y;
         public Plattform(int plattformSize, Texture2D tex, float x, float y )
         {
             this.plattformSize = plattformSize;
