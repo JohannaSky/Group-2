@@ -141,9 +141,9 @@ namespace Projekt_X
             for (int i = 0; i < mapOne.Length; i++)
             {
 
-                if (mapOne[i].GetRect().Intersects(hitBox))
+                if (mapOne[i].GetRect().Intersects(hitBox) && isFalling == true)
                 {
-                    if (isFalling == true)
+                    if (mapOne[i].GetRect().Y >= hitBox.Y + 20) //Justera höjden som spelaren behöver uppnå för att kunna stå på plattformen här
                     {
                         Player.isOnGround = true;
                         break;
@@ -157,11 +157,14 @@ namespace Projekt_X
             }
             for (int i = 0; i < mapOneMovement.Length; i++)
             {
-                if(mapOneMovement[i].GetRect().Intersects(hitBox) && isFalling == true)
+                if (mapOneMovement[i].GetRect().Intersects(hitBox) && isFalling == true)
                 {
-                    Player.isOnGround = true;
-                    mapOneMovement[i].SetOnPlattform(true);
-                    break;
+                    if (mapOneMovement[i].GetRect().Y >= hitBox.Y + 20) //Justera höjden som spelaren behöver uppnå för att kunna stå på plattformen här
+                    {
+                        Player.isOnGround = true;
+                        mapOneMovement[i].SetOnPlattform(true);
+                        break;
+                    }
                 }
                 else
                 {
