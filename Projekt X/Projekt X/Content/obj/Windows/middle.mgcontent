@@ -3,7 +3,7 @@
   <SourceFile>C:/Users/Martin/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/middle.png</SourceFile>
   <SourceTime>2016-04-26T04:35:00.5804446+02:00</SourceTime>
   <DestFile>C:/Users/Martin/Documents/GitHub/Group-2/Projekt X/Projekt X/Content/bin/Windows/middle.xnb</DestFile>
-  <DestTime>2016-04-26T04:36:48.781326+02:00</DestTime>
+  <DestTime>2016-05-02T06:59:58.0397141+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2015-09-04T08:26:22+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
@@ -26,6 +26,10 @@
   </Parameters>
   <Parameters>
     <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
     <Value>False</Value>
   </Parameters>
   <Parameters>

@@ -143,7 +143,7 @@ namespace Projekt_X
 
                 if (mapOne[i].GetRect().Intersects(hitBox) && isFalling == true)
                 {
-                    if (mapOne[i].GetRect().Y >= hitBox.Y + 20) //Justera höjden som spelaren behöver uppnå för att kunna stå på plattformen här
+                    if (mapOne[i].GetRect().Y >= hitBox.Y + 40) //Justera höjden som spelaren behöver uppnå för att kunna stå på plattformen här
                     {
                         Player.isOnGround = true;
                         break;
@@ -159,7 +159,7 @@ namespace Projekt_X
             {
                 if (mapOneMovement[i].GetRect().Intersects(hitBox) && isFalling == true)
                 {
-                    if (mapOneMovement[i].GetRect().Y >= hitBox.Y + 20) //Justera höjden som spelaren behöver uppnå för att kunna stå på plattformen här
+                    if (mapOneMovement[i].GetRect().Y >= hitBox.Y + 40) //Justera höjden som spelaren behöver uppnå för att kunna stå på plattformen här
                     {
                         Player.isOnGround = true;
                         mapOneMovement[i].SetOnPlattform(true);

@@ -45,7 +45,7 @@ namespace Projekt_X
 
             spriteBatch = new SpriteBatch(GraphicsDevice);
             map = Content.Load<Texture2D>("Karta");
-            character = Content.Load<Texture2D>("Karaktär");
+            character = Content.Load<Texture2D>("Character Animation");
             foregroundTex = Content.Load<Texture2D>("fore");
             middlegroundTex = Content.Load<Texture2D>("middle");
             backgroundTex = Content.Load<Texture2D>("back");
@@ -74,7 +74,7 @@ namespace Projekt_X
             
             //mapMenu.MapMenuMovement();
             //gameStateManager.Update();
-            player.Update();
+            player.Update(gameTime);
             camera.Update();
             /*#region paralax
             if (Keyboard.GetState().IsKeyDown(Keys.Left))

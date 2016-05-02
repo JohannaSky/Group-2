@@ -20,6 +20,11 @@ namespace Projekt_X
         Map maps;
         ParallaxScroll paralaxScroll;
         Rectangle hitBox;
+        Rectangle srcRect;
+        int frame;
+        float characterWidth, characterHeight;
+        double frameTimer, frameInterval;
+        SpriteEffects characterFx;
         public Player(ContentManager content, GameWindow window)
         {
             this.character = Game1.character;
@@ -29,11 +34,16 @@ namespace Projekt_X
             ridingPlattformBackward = false;
             maps = new Map();        
             isFalling = false;
-            hitBox = new Rectangle((int)pos.X, (int)pos.Y - character.Height, character.Width, 1);
+            characterWidth = character.Width / 120;
+            characterHeight = character.Height / 20;
+            hitBox = new Rectangle((int)pos.X, (int)pos.Y - (int)characterHeight, (int)characterWidth, 1);
             paralaxScroll = new ParallaxScroll(content, window);
-            
+            frameTimer = 100;
+            frameInterval = 100;
+            characterFx = SpriteEffects.None;
+            srcRect = new Rectangle(0, 0, character.Width / 12, character.Height / 2);       
         }
-        public void Update()
+        public void Update(GameTime gameTime)
         {
             maps.Update();
             paralaxScroll.Update();
@@ -50,15 +60,33 @@ namespace Projekt_X
             }
             if(ks.IsKeyDown(Keys.Right))
             {
+                characterFx = SpriteEffects.None;
                 speed.X = 5f;
+                frameTimer -= gameTime.ElapsedGameTime.TotalMilliseconds;
+                if (frameTimer <= 0)
+                {
+                    frameTimer = frameInterval;
+                    frame++;
+                    srcRect.X = (frame % 12) * character.Width / 12;
+                }
             }
             else if(ks.IsKeyDown(Keys.Left) && pos.X > 0)
             {
+                characterFx = SpriteEffects.FlipHorizontally;
                 speed.X = -5f;
+                frameTimer -= gameTime.ElapsedGameTime.TotalMilliseconds;
+                if (frameTimer <= 0)
+                {
+                    frameTimer = frameInterval;
+                    frame++;
+                    srcRect.X = (frame % 12) * character.Width / 12;
+                }
             }
             else
             {
                 speed.X = 0;
+                srcRect = new Rectangle(0, 0, character.Width / 12, character.Height / 2);
+                frameTimer = 100;
             }
 
             if(ks.IsKeyDown(Keys.Up) && isOnGround == true)
@@ -82,7 +110,7 @@ namespace Projekt_X
             }
                                                           
             pos += speed;
-            if (pos.Y + character.Height >= Game1.screenHeight)
+            if (pos.Y + character.Height / 20 >= Game1.screenHeight)
             {
                 isOnGround = true;
                 speed.Y = 0;
@@ -100,14 +128,14 @@ namespace Projekt_X
             //    }
             //}
 
-                hitBox = new Rectangle((int)pos.X, (int)pos.Y, character.Width, character.Height);
+                hitBox = new Rectangle((int)pos.X, (int)pos.Y, (int)characterWidth, (int)characterHeight);
                 
         }
         public void Draw(SpriteBatch sb)
         {
             paralaxScroll.Draw(sb);
             maps.Draw(sb);
-            sb.Draw(character, pos, Color.White);
+            sb.Draw(character, pos, srcRect, Color.White, 0, new Vector2(characterWidth / 2, characterHeight / 2), 1/10f, characterFx, 1);
         }
         public Vector2 GetPos()
         {

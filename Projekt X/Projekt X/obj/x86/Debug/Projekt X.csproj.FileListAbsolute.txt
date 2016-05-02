@@ -118,3 +118,4 @@ C:\Users\Martin\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\S
 C:\Users\Martin\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.XInput.xml
 C:\Users\Martin\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\SharpDX.RawInput.xml
 C:\Users\Martin\Documents\GitHub\Group-2\Projekt X\Projekt X\obj\x86\Debug\Projekt X.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\Group-2\Projekt X\Projekt X\bin\Windows\Debug\Content\Character Animation.xnb
